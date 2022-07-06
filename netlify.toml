@@ -1,0 +1,4 @@
+[build]
+base = "plusweek6.html"
+command = "CI= npm run build"
+publish = "build" 
